@@ -5,8 +5,8 @@ import React from "react";
 class Header extends React.Component {
   render() { //função obrigatória
     return ( //return  obrigatório
-      <header>
-        <nav>
+      <header className="hdr">
+        <nav className="hdrmenu">
           <a href="#home">inicio</a>
           <a href="Historia">A Historia dos Computadores</a>
           <a href="Hardwares">Hardwares</a>
