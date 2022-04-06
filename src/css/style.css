@@ -1,0 +1,31 @@
+/*
+inicio header
+*/
+.hdr {
+  font-family: 'Alumni Sans Inline One', cursive;
+  font-weight: bold;
+  width: 100%;
+  background: #000;
+  min-height: 3em;
+}
+
+.hdrmenu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap ;
+  width: 90%;
+}
+.hdrmenu a{
+  color: #01F000;
+  padding: 1em;
+  text-decoration: none;
+}
+
+.hdrmenu a:hover{
+  color: orange;
+  text-decoration: underline;
+}
+/*
+fim header 
+*/

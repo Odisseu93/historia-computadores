@@ -1,7 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './css/style.css';
+import './css/index.css';
 import App from './App';
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&display=swap');
+</style>
 
 ReactDOM.render(
   <React.StrictMode>
