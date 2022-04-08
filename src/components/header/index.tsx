@@ -7,7 +7,6 @@ class Header extends React.Component {
     return ( //return  obrigatório
       <header className="hdr">
         <nav className="hdrmenu">
-          <a href="#home">inicio</a>
           <a href="#Historia">A Historia dos Computadores</a>
           <a href="#Hardwares">Hardwares</a>
           <a href="#software">Softwares</a>
