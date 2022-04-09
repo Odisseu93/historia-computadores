@@ -42,14 +42,15 @@ inicio main
 */
 .historia {
   background: linear-gradient(#0E185F, #1d219e, #332FD0);
-  color: #2FA4FF;
+  color: #ffff;
   text-align:justify;
   border: solid 2px #FFFF;
-  background-image: url("bg-main.png");
   background-size:cover;
   background-repeat: no-repeat;
   padding: 1em;
 }
+
+
 
 .historia p {
   width: 100%;
