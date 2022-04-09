@@ -45,6 +45,9 @@ inicio main
   color: #2FA4FF;
   text-align:justify;
   border: solid 2px #FFFF;
+  background-image: url("bg-main.png");
+  background-size:cover;
+  background-repeat: no-repeat;
   padding: 1em;
 }
 
@@ -57,7 +60,6 @@ inicio main
   font-size: 2em;
   text-align: center;
 }
-
 
 .picture-and-text {
   display: flex;
