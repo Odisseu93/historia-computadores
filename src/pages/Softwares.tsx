@@ -3,7 +3,7 @@ import Header from "../components/header";
 
 function Softwares() { 
   return(
-  <div className="contener">
+  <div className="container">
     <Header />
     This is Software page!
   </div>  

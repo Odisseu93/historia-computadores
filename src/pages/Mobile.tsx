@@ -3,7 +3,7 @@ import Header from "../components/header";
 
 function Mobile() { 
   return(
-  <div className="contener">
+  <div className="container">
     <Header />
     This is mobile page!
   </div>  
