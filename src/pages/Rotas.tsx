@@ -1,5 +1,5 @@
 import React from "react";
-import Historia from './historia/Historia';
+import Historia from './Historia';
 import Hardwares from './Hardwares';
 import Softwares from './Softwares';
 import Mobile from './Mobile';
