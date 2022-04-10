@@ -41,7 +41,7 @@ fim header
 inicio main 
 */
 .historia {
-  background: linear-gradient(#0E185F, #1d219e, #332FD0);
+  background: linear-gradient(90deg,#0E185F, #1d219e, #332FD0,#000);
   color: #ffff;
   text-align:justify;
   border: solid 2px #FFFF;
