@@ -12,6 +12,7 @@ function Rotas() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Historia/>} />
+          <Route path="Historia" element={<Historia/>} />
           <Route path="Hardwares" element={<Hardwares/>} />
           <Route path="Softwares" element={<Softwares/>} />
           <Route path="Mobile" element={<Mobile/>} />
