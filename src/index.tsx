@@ -2,6 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/style.css';
 import './css/index.css';
+import Historia from './pages/Historia';
+import Hardwares from './pages/Hardwares';
+import Softwares from './pages/Softwares';
+import Mobile from './pages/Mobile';
+import Sobre from './pages/Sobre';
+import Article from './components/articles';
 import App from './App';
 
 <style>
