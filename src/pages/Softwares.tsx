@@ -7,10 +7,10 @@ function Softwares() {
   return (
     <div className="container">
       <Header />
-      <main className="coftwares">
+      <main className="softwares">
         <br />
         <section>
-          <h2>Sistema Operacional</h2>
+          <h1 className="title">Sistema Operacional</h1>
           <Article
             textP="Um sistema operacional (SO) é uma coleção de programas que inicializam o hardware do computador. Fornece rotinas básicas para controle de dispositivos. Fornece gerência, escalonamento e interação de tarefas. Mantém a integridade de sistema."
             url_image="https://s.zst.com.br/cms-assets/2021/02/sistema-operacional-windows-macos-linux.jpg"

@@ -4,6 +4,8 @@
   font-weight: 400;
 }
 
+
+
 /*
 inicio header
 */
@@ -33,19 +35,20 @@ inicio header
   color: orange;
   text-decoration: underline;
 }
+
 /*
 fim header 
 */
 
 /*
-inicio main 
+inicio main historia 
 */
 .historia {
-  background: linear-gradient(90deg,#0E185F, #1d219e, #332FD0,#000);
+  background: linear-gradient(90deg, #0E185F, #1d219e, #332FD0, #000);
   color: #ffff;
-  text-align:justify;
+  text-align: justify;
   border: solid 2px #FFFF;
-  background-size:cover;
+  background-size: cover;
   background-repeat: no-repeat;
   padding: 1em;
 }
@@ -97,6 +100,181 @@ inicio main
 .link:hover {
   color: orange;
 }
+
 /*
-fim main
+fim main historia
+*/
+
+/*
+inicio main hardwares 
+*/
+.hardwares {
+  background: linear-gradient(90deg, #000, #1d219e, #332FD0, #345f0e);
+  color: #ffff;
+  text-align: justify;
+  border: solid 2px #FFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1em;
+  box-sizing: border-box;
+  min-width: 200px;
+}
+
+.art {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.picture_and_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ref_info {
+  text-align: center;
+}
+
+.art_img {
+  width: 50%;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+.art_img:hover {
+  opacity: 50%;
+}
+
+/*
+fim main hardwares 
+*/
+
+/*
+inicio main softwares
+*/
+.softwares {
+  background: linear-gradient(90deg, #345f0e, #23410a, #030501);
+  color: #ffff;
+  text-align: justify;
+  border: solid 2px #FFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1em;
+  box-sizing: border-box;
+  min-width: 200px;
+}
+
+.art {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.picture_and_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ref_info {
+  text-align: center;
+}
+
+.art_img {
+  width: 50%;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+.art_img:hover {
+  opacity: 50%;
+}
+
+/*
+fim main softwares 
+*/
+
+/*
+inicio main mobile page
+*/
+.mobile {
+  background: linear-gradient(90deg,#030501, #a55f0f, #a9420f);
+  color: #ffff;
+  text-align: justify;
+  border: solid 2px #FFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1em;
+  box-sizing: border-box;
+  min-width: 200px;
+}
+
+.art {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.picture_and_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ref_info {
+  text-align: center;
+}
+
+.art_img {
+  width: 50%;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+.art_img:hover {
+  opacity: 50%;
+}
+
+/*
+fim main mobile page
+*/
+
+
+/*
+inicio main mobile page
+*/
+.sobre {
+  flex-wrap: wrap;
+  background: linear-gradient(90deg, #a9420f,#a2491d, #ac5226, #dd7e4f);
+  color: #ffff;
+  min-height: 500px;
+  text-align: justify;
+  border: solid 2px #FFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1em;
+  box-sizing: border-box;
+  min-width: 200px;
+}
+
+.ref_info {
+  text-align: center;
+}
+
+.art_img {
+  width: 50%;
+  border-radius: 1em;
+  padding: 0.5em;
+}
+
+.art_img:hover {
+  opacity: 50%;
+}
+
+/*
+fim main mobile page
 */

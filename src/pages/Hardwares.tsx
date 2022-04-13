@@ -10,7 +10,7 @@ function Hardwares() {
       <main className="hardwares">
         <br />
         <section>
-          <h2>Armazenamento de dados</h2>
+          <h1 className="title">Armazenamento de dados</h1>
           <Article
             textP="Os dispositivos de armazenamento por meio magnético são os mais antigos e mais utilizados atualmente, por permitir uma grande densidade de informação, ou seja, armazenar grande quantidade de dados em um pequeno espaço físico. São mais antigos, porém foram se aperfeiçoando no decorrer do tempo.
            Os dispositivos de armazenamento magnéticos que possuem mídias removíveis normalmente não possuem capacidade e confiabilidade equivalente aos dispositivos fixos, pois sua mídia é frágil e possui capacidade de armazenamento muito pequena se comparada a outros tipos de dispositivos de armazenamento magnéticos. Como exemplo de dispositivos de armazenamento por meio magnético, podemos citar os Discos Rígidos."
