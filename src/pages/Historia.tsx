@@ -90,11 +90,11 @@ function Historia() {
         <br />
         <article className='art'>
           Caso queira saber mais detalhes sobre a historia dos compotadores e si aprofundar,aqui está alguns sites interessantes que encontrei na WEB:
-          <References referece_title="Wikipédia - História dos computadores" referece_url="https://pt.wikipedia.org/wiki/Computador" />
-          <References referece_title="Historia do computador em minutos" referece_url="https://www.youtube.com/watch?v=F3qWg1JBPZg" />
-          <References referece_title="A Evolução dos Computadores" referece_url="https://www.diferenca.com/evolucao-dos-computadores" />
-          <References referece_title="Podcast Scicast #86: Arquitetura de Computadores" referece_url="https://www.deviante.com.br/podcasts/scicast/86-arquitetura-de-computadores" />
-          <References referece_title="Vídeo: A criação dos computadores pessoais | Nerdologia" referece_url="https://www.youtube.com/watch?v=Vb0iORewZDA" />
+          <References reference_title="Wikipédia - História dos computadores" reference_url="https://pt.wikipedia.org/wiki/Computador" />
+          <References reference_title="Historia do computador em minutos" reference_url="https://www.youtube.com/watch?v=F3qWg1JBPZg" />
+          <References reference_title="A Evolução dos Computadores" reference_url="https://www.diferenca.com/evolucao-dos-computadores" />
+          <References reference_title="Podcast Scicast #86: Arquitetura de Computadores" reference_url="https://www.deviante.com.br/podcasts/scicast/86-arquitetura-de-computadores" />
+          <References reference_title="Vídeo: A criação dos computadores pessoais | Nerdologia" reference_url="https://www.youtube.com/watch?v=Vb0iORewZDA" />
         </article>
       </main>
     </div >
