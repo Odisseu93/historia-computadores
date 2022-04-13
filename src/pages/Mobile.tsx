@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/header";
 import Article from "../components/articles";
 import References from "../components/references";
+import Footer from "../components/footer";
 
 
 function Mobile() {
@@ -47,6 +48,7 @@ function Mobile() {
           />
         </article>
       </main>
+      <Footer/>
     </div>
   );
 }

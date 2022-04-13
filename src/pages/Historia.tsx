@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/footer";
 import Header from "../components/header";
 import References from "../components/references";
 
@@ -97,6 +98,7 @@ function Historia() {
           <References reference_title="Vídeo: A criação dos computadores pessoais | Nerdologia" reference_url="https://www.youtube.com/watch?v=Vb0iORewZDA" />
         </article>
       </main>
+      <Footer/>
     </div >
   );
 }

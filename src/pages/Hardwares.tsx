@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/header";
 import Article from "../components/articles";
 import References from "../components/references";
+import Footer from "../components/footer";
 
 function Hardwares() {
   return (
@@ -34,6 +35,7 @@ function Hardwares() {
           />
         </article>
       </main>
+      <Footer/>
     </div>
   );
 }
