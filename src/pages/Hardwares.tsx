@@ -7,8 +7,7 @@ function Hardwares() {
   return (
     <div className="container">
       <Header />
-      <main>
-        <h1>Hardwares</h1>
+      <main className="hardwares">
         <br />
         <section>
           <h2>Armazenamento de dados</h2>
@@ -26,12 +25,12 @@ function Hardwares() {
         <article className='art'>
           <p>Links, Referencias e Informações:</p>
           <References
-            referece_title="A Evolução dos Discos Rígidos"
-            referece_url="https://www.techtudo.com.br/platb/hardware/2011/01/06/evolucao-discos-rigidos-hd/"
+            reference_title="A Evolução dos Discos Rígidos"
+            reference_url="https://www.techtudo.com.br/platb/hardware/2011/01/06/evolucao-discos-rigidos-hd/"
           />
           <References
-            referece_title="Memórias RAM e ROM"
-            referece_url="https://www.infowester.com/memoria.php"
+            reference_title="Memórias RAM e ROM"
+            reference_url="https://www.infowester.com/memoria.php"
           />
         </article>
       </main>
