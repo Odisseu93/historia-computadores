@@ -3,7 +3,7 @@ import React from "react";
 const Footer = ()=>{
   return(
   <div className="container">
-    <footer>
+    <footer className="rodape">
     Coded by <a href="https://github.com/Odisseu93">Ulisses silvério</a>.
     </footer>
   </div>

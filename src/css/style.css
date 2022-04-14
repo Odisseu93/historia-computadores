@@ -356,8 +356,20 @@ fim main sobre page
 /*
 início footer
 */
+.rodape{
+  background: #000;
+  color: #01F000;
+  text-align: center;
+}
 
+.rodape a{
+  color: rgb(18, 224, 235);
+  text-decoration: none;
+}
 
+.rodape a:hover{
+color: orange;
+}
 
 /*
 fim footer
