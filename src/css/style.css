@@ -6,6 +6,7 @@
 
 
 
+
 /*
 inicio header
 */
@@ -201,7 +202,7 @@ fim main softwares
 inicio main mobile page
 */
 .mobile {
-  background: linear-gradient(90deg,#030501, #a55f0f, #a9420f);
+  background: linear-gradient(90deg, #030501, #a55f0f, #a9420f);
   color: #ffff;
   text-align: justify;
   border: solid 2px #FFFF;
@@ -245,20 +246,93 @@ fim main mobile page
 
 
 /*
-inicio main mobile page
+inicio main sobre page
 */
 .sobre {
-  flex-wrap: wrap;
-  background: linear-gradient(90deg, #a9420f,#a2491d, #ac5226, #dd7e4f);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(90deg, #a9420f, #a2491d, #ac5226, #dd7e4f);
   color: #ffff;
-  min-height: 500px;
+  min-height: 750px;
   text-align: justify;
   border: solid 2px #FFFF;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 1em;
   box-sizing: border-box;
-  min-width: 200px;
+}
+
+.objetivo {
+  padding: 1em;
+}
+
+.listagem-tecnologias {
+  display: flex;
+  padding: 1em;
+  justify-content: space-evenly;
+}
+
+.listagem-tecnologias span {
+  padding: 0.3em;
+  margin: 1em;
+  border-radius: 1em;
+
+}
+
+.listagem-tecnologias a {
+  text-decoration: none;
+}
+
+.listagem-tecnologias span:hover {
+  background: yellowgreen;
+}
+
+.span-React {
+  color: white;
+  background: #379ebd;
+}
+
+.span-TypeScript {
+  color: white;
+  background: blue;
+}
+
+.span-HTML {
+  color: white;
+  background: orange;
+}
+
+.span-CSS {
+  color: white;
+  background: #264BE5;
+}
+
+.contato {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.contato p {
+  width: 100%;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.contato a {
+  margin-top: 2em;
+  width: 25%;
+  text-align: center;
+  transition: 1s;
+}
+
+.contato a:hover {
+  transform: rotate(360deg)
 }
 
 .ref_info {
@@ -276,5 +350,15 @@ inicio main mobile page
 }
 
 /*
-fim main mobile page
+fim main sobre page
+*/
+
+/*
+início footer
+*/
+
+
+
+/*
+fim footer
 */
