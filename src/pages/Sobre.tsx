@@ -15,7 +15,7 @@ function Sobre() {
         <div className='objetivo'>
           <p>Foi utilizando as seguintes tecnologias:</p>
           <ul className="listagem-tecnologias">
-            <li><a href="https://reactjs.org/"><span className="span-React">Rect.js</span></a></li>
+            <li><a href="https://reactjs.org/"><span className="span-React">React.js</span></a></li>
             <li><a href="https://www.typescriptlang.org/"><span className="span-TypeScript">TypeScript</span></a></li>
             <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><span className="span-HTML">HTML</span></a></li>
             <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><span className="span-CSS">CSS</span></a></li>
