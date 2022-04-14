@@ -9,7 +9,7 @@ Objetivo principal é construir o projeto utilizando as seguintees tecnologias:
             <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><span className="span-CSS">CSS</span></a></li>
           </ul>
          
-
+[Clique aqui para ver a página em funcionamento, através de um vídeo](https://www.youtube.com/watch?v=_WCeSVlhfog)
 
 ### Atividades feitas até agora:
 - #### Utilização da biblioteca React.js 
@@ -25,6 +25,5 @@ Objetivo principal é construir o projeto utilizando as seguintees tecnologias:
 - #### Adaptação para telas menores
 - #### Refatorar o código
 - #### Hospedar a minha página GitHub pages
-
 
 
