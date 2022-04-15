@@ -3,7 +3,7 @@
 Construir uma página, que fale um pouco da história dos computadores e mostra a evolução de hardware e software dos primeiros computadores, até os mais atuais.
 Objetivo principal é construir o projeto utilizando as seguintees tecnologias:
 <ul className="listagem-tecnologias">
-            <li><a href="https://reactjs.org/"><span className="span-React">Rect.js</span></a></li>
+            <li><a href="https://reactjs.org/"><span className="span-React">React.js</span></a></li>
             <li><a href="https://www.typescriptlang.org/"><span className="span-TypeScript">TypeScript</span></a></li>
             <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><span className="span-HTML">HTML</span></a></li>
             <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><span className="span-CSS">CSS</span></a></li>

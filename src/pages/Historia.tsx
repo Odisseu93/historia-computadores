@@ -18,7 +18,7 @@ function Historia() {
             <img src="http://zuse.zib.de/resources/images/z1/zusez1livingroom.jpg" width="50%" alt="Construction of Z1 in living room" className="art-img" />
             <p>
               <p className="ref-info">
-                Constução do Z1 na sala de estar fonte: <a href='http://zuse.zib.de/z1' className='link'>Konrad Zuse Internet Archive Project</a>
+                Constução do Z1 na sala de estar fonte: <a href='http://zuse.zib.de/z1' className='link' target={"_blank"}>Konrad Zuse Internet Archive Project</a>
                 <br />
               </p>
             </p>
@@ -47,7 +47,7 @@ function Historia() {
           </p>
           <p>
             <span className="ref-info">
-              Porto Editora – <em>Harvard Mk I</em> na Infopédia. Porto: Porto Editora. Disponível em <label className="current-url"><a href='https://www.infopedia.pt/$harvard-mk-i' className='link'>https://www.infopedia.pt/$harvard-mk-i</a></label>
+              Porto Editora – Harvard Mk I na Infopédia. Porto: Porto Editora. Disponível em <label className="current-url"><a href='https://www.infopedia.pt/$harvard-mk-i' className='link' target={"_blank"}>https://www.infopedia.pt/$harvard-mk-i</a></label>
             </span>
           </p>
         </article>
@@ -60,7 +60,7 @@ function Historia() {
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eniac.jpg/785px-Eniac.jpg" width="50%" alt="Construction of Z1 in living room" className="art-img" />
             <p>
               <p className="ref-info">
-                ENIAC (Electronic Numerical Integrator And Computer) na Filadélfia, Pensilvânia. Glen Beck (Fundo) e Betty Snyder (Frente) programa ENIAC no edifífio 328 do Ballistic Research Laboratory (BRL): <a href='https://pt.wikipedia.org/wiki/Ficheiro:Eniac.jpg#filehistory' className='link'>Wiki</a>
+                ENIAC (Electronic Numerical Integrator And Computer) na Filadélfia, Pensilvânia. Glen Beck (Fundo) e Betty Snyder (Frente) programa ENIAC no edifífio 328 do Ballistic Research Laboratory (BRL): <a href='https://pt.wikipedia.org/wiki/Ficheiro:Eniac.jpg#filehistory' className='link' target={"_blank"}>Wiki</a>
                 <br />
               </p>
             </p>
@@ -82,7 +82,7 @@ function Historia() {
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Arquiteturavn.png?20080429061059" width="50%" alt="Construction of Z1 in living room" className="art-img" />
             <p>
               <p className="ref-info">
-                Visão simplificada da arquitetura de Von Neumann: <a href='https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann' className='link'>Wiki</a>
+                Visão simplificada da arquitetura de Von Neumann: <a href='https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann' className='link' target={"_blank"}>Wiki</a>
                 <br />
               </p>
             </p>
@@ -98,7 +98,7 @@ function Historia() {
           <References reference_title="Vídeo: A criação dos computadores pessoais | Nerdologia" reference_url="https://www.youtube.com/watch?v=Vb0iORewZDA" />
         </article>
       </main>
-      <Footer/>
+      <Footer />
     </div >
   );
 }

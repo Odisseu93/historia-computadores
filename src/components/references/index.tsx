@@ -6,13 +6,13 @@ interface Props {
   reference_url: string;
 }
 
-function References({reference_title: referece_title, reference_url: referece_url}: Props) {
+function References({ reference_title: referece_title, reference_url: referece_url }: Props) {
   return (
     <div className="container-references">
       <br />
       <ol type="1" />
       <li> <h3 className="referece_title">{referece_title}</h3>
-        <p>Link: <a href={referece_url} className="link">{referece_url}</a></p>
+        <p>Link: <a href={referece_url} className="link" target={"_blank"}>{referece_url}</a></p>
       </li>
       <br />
     </div>
