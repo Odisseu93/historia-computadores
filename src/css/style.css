@@ -376,15 +376,30 @@ início footer
 fim footer
 */
 
-
+/*
+mobile
+*/
 @media(min-width:320px) and (max-width:375px) {
+
+  body {
+    width: 100vw;
+    height: 100vh;
+    background: red;
+  }
+
+
+  .rodape {
+    width: 100%;
+  }
 
   .historia,
   .hardwares,
   .softwares,
   .mobile,
   .sobre {
-    text-align: center;
+    width: 100vw;
+    margin: 0;
+    box-sizing: border-box;
   }
 
   .hardwares {
@@ -393,17 +408,18 @@ fim footer
 
   .art-img,
   .art_img {
-    width: 100%;
+    width: 95%;
   }
 
   .video {
-    width: 100%;
+    width: 95%;
   }
 
-.listagem-tecnologias {
-  flex-direction: column;
-  min-height: 200px;
-  justify-content: space-evenly;
-}
+  .listagem-tecnologias {
+    flex-direction: column;
+    min-height: 200px;
+    justify-content: space-evenly;
+  }
+
 
 }

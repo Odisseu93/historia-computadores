@@ -19,10 +19,10 @@ Objetivo principal é construir o projeto utilizando as seguintees tecnologias:
 - #### Criação das páginas
 - #### Imprementação do React Router Dom
 - #### Criado a primeira versão do site
+- #### Adaptação para telas menores
 
 ### O que falta fazer:
 - #### Adicionar mais conteúdos nas páginas
-- #### Adaptação para telas menores
 - #### Refatorar o código
 - #### Hospedar a minha página GitHub pages
 
