@@ -1,14 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './css/style.css';
+import './css/style.css'
 import './css/index.css';
-import Historia from './pages/Historia';
-import Hardwares from './pages/Hardwares';
-import Softwares from './pages/Softwares';
-import Mobile from './pages/Mobile';
-import Sobre from './pages/Sobre';
-import Article from './components/articles';
 import App from './App';
+
+import { HashRouter as Router } from 'react-router-dom';
+
+
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&display=swap');
@@ -17,9 +15,8 @@ import App from './App';
 
 
 ReactDOM.render(
-  <React.StrictMode>
+   <Router>
     <App />
-  </React.StrictMode>,
+  </Router>,
   document.getElementById('root')
 );
-

@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="container">
       <Rotas />
-      <Historia />
     </div>
   );
 }
