@@ -4,8 +4,9 @@
   font-weight: 400;
 }
 
-
-
+li {
+  list-style-type: none;
+}
 
 /*
 inicio header
@@ -356,21 +357,53 @@ fim main sobre page
 /*
 início footer
 */
-.rodape{
+.rodape {
   background: #000;
   color: #01F000;
   text-align: center;
 }
 
-.rodape a{
+.rodape a {
   color: rgb(18, 224, 235);
   text-decoration: none;
 }
 
-.rodape a:hover{
-color: orange;
+.rodape a:hover {
+  color: orange;
 }
 
 /*
 fim footer
 */
+
+
+@media(min-width:320px) and (max-width:375px) {
+
+  .historia,
+  .hardwares,
+  .softwares,
+  .mobile,
+  .sobre {
+    text-align: center;
+  }
+
+  .hardwares {
+    background: linear-gradient(90deg, #000, #1d219e, #332FD0);
+  }
+
+  .art-img,
+  .art_img {
+    width: 100%;
+  }
+
+  .video {
+    width: 100%;
+  }
+
+.listagem-tecnologias {
+  flex-direction: column;
+  min-height: 200px;
+  justify-content: space-evenly;
+}
+
+}
