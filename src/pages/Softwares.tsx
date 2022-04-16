@@ -18,7 +18,6 @@ function Softwares() {
             alt_image="imagens das logos de sitemas operacionais"
             ref_text="O que é um SO"
             ref_a_url="https://www.oficinadanet.com.br/artigo/851/o_que_e_um_sistema_operacional"
-            ref_a_text="Clique aqui!"
           />
         </section>
         <br />

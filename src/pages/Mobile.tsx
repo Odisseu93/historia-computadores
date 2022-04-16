@@ -20,7 +20,6 @@ function Mobile() {
             alt_image="iPhone - Apple (BR)"
             ref_text="Wiki"
             ref_a_url="https://pt.wikipedia.org/wiki/Smartphone"
-            ref_a_text="Clique aqui!"
           />
           <br />
           <h2>Tablets</h2>
@@ -32,7 +31,6 @@ function Mobile() {
             alt_image="Galaxy Tab2 (10,1”, 3G) | GT-P5100TSEXFA | Samsung Business África  (Português)"
             ref_text="Wiki"
             ref_a_url="https://pt.wikipedia.org/wiki/Tablet"
-            ref_a_text="Clique aqui!"
           />
         </section>
         <br />

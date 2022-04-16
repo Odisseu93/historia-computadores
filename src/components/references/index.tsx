@@ -12,7 +12,7 @@ function References({ reference_title: referece_title, reference_url: referece_u
       <br />
       <ol type="1" />
       <li> <h3 className="referece_title">{referece_title}</h3>
-        <p>Link: <a href={referece_url} className="link" target={"_blank"}>{referece_url}</a></p>
+        <p>Link: <a href={referece_url} className="link" target={"_blank"}>Clique aqui!</a></p>
       </li>
       <br />
     </div>

@@ -19,7 +19,6 @@ function Hardwares() {
             alt_image="hard drive"
             ref_text="O que um disco rígido"
             ref_a_url="https://www.infoescola.com/informatica/disco-rigido/"
-            ref_a_text="Clique aqui!"
           />
         </section>
         <br/>
