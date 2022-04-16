@@ -17,7 +17,7 @@ const Article = ({ textP, url_image, alt_image, ref_text, ref_a_url }: Props) =>
         <img src={url_image} width="50%" alt={alt_image} className="art_img" />
         <p>
           <p className="ref_info">
-            {ref_text}: <a href={ref_a_url} className='link'>Clique aqui!</a>
+            {ref_text}: <a href={ref_a_url} className='link'target={"_blank"}>Clique aqui!</a>
             <br />
           </p>
         </p>
