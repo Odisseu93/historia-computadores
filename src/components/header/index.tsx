@@ -26,7 +26,7 @@ function Header() {
     <div className="container">
       <header className="hdr">
         <nav className="hdrmenu">
-          <a href='/'>A Historia dos Computadores</a>
+          <a href='https://odisseu93.github.io/historia-computadores/'>A Historia dos Computadores</a>
           <a href="https://odisseu93.github.io/historia-computadores/#/Hardwares">Hardwares</a>
           <a href="https://odisseu93.github.io/historia-computadores/#/softwares">Softwares</a>
           <a href="https://odisseu93.github.io/historia-computadores/#/mobile">Mobile</a>
