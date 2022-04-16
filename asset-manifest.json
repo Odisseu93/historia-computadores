@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/historia-computadores/static/css/main.8fd6ee3a.css",
-    "main.js": "/historia-computadores/static/js/main.2516194e.js",
+    "main.js": "/historia-computadores/static/js/main.c6459ab6.js",
     "index.html": "/historia-computadores/index.html",
     "main.8fd6ee3a.css.map": "/historia-computadores/static/css/main.8fd6ee3a.css.map",
-    "main.2516194e.js.map": "/historia-computadores/static/js/main.2516194e.js.map"
+    "main.c6459ab6.js.map": "/historia-computadores/static/js/main.c6459ab6.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd6ee3a.css",
-    "static/js/main.2516194e.js"
+    "static/js/main.c6459ab6.js"
   ]
 }
