@@ -15,7 +15,7 @@ function Historia() {
             O primeiro computador eletromecânico foi construído por Konrad Zuse (1910–1995). Em 1936, esse engenheiro alemão construiu, a partir de relês que executavam os cálculos e dados lidos em fitas perfuradas, o Z1.
           </p>
           <div className='picture-and-text'>
-            <img src="http://zuse.zib.de/resources/images/z1/zusez1livingroom.jpg" width="50%" alt="Construction of Z1 in living room" className="art-img" />
+            <img src="https://www.imagemhost.com.br/images/2022/04/17/zusez1livingroom.jpg width="50%" alt="Construction of Z1 in living room" className="art-img" />
             <p>
               <p className="ref-info">
                 Constução do Z1 na sala de estar fonte: <a href='http://zuse.zib.de/z1' className='link' target={"_blank"}>Konrad Zuse Internet Archive Project</a>
