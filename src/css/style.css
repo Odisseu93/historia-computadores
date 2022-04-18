@@ -53,6 +53,7 @@ inicio main historia
   background-size: cover;
   background-repeat: no-repeat;
   padding: 1em;
+  min-height: 95vh;
 }
 
 .historia p {
@@ -120,6 +121,7 @@ inicio main hardwares
   padding: 1em;
   box-sizing: border-box;
   min-width: 200px;
+  min-height: 95vh;
 }
 
 .art {
@@ -166,6 +168,7 @@ inicio main softwares
   padding: 1em;
   box-sizing: border-box;
   min-width: 200px;
+  min-height: 95vh;
 }
 
 .art {
@@ -212,6 +215,7 @@ inicio main mobile page
   padding: 1em;
   box-sizing: border-box;
   min-width: 200px;
+  min-height: 95vh;
 }
 
 .art {
@@ -264,6 +268,7 @@ inicio main sobre page
   background-repeat: no-repeat;
   padding: 1em;
   box-sizing: border-box;
+  min-height: 95vh;
 }
 
 .objetivo {
@@ -423,3 +428,4 @@ mobile
 
 
 }
+
