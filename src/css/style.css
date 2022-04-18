@@ -384,7 +384,7 @@ fim footer
 /*
 mobile
 */
-@media(min-width:320px) and (max-width:375px) {
+@media(min-width:320px) and (max-width:630px) {
 
   body {
     width: 100vw;
@@ -405,6 +405,7 @@ mobile
     width: 100vw;
     margin: 0;
     box-sizing: border-box;
+    text-align: center;
   }
 
   .hardwares {
@@ -425,7 +426,4 @@ mobile
     min-height: 200px;
     justify-content: space-evenly;
   }
-
-
 }
-
